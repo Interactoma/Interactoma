@@ -5,6 +5,7 @@
 **Fullstack Developer** — I design and modernize high-complexity enterprise software:
 CRM, TMS and dashboards, with modern frontend architecture and robust backend integration.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-nine-lac.vercel.app/)
 [![Email](https://img.shields.io/badge/zezoniko%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zezoniko@gmail.com)
 
 </div>
@@ -16,6 +17,7 @@ CRM, TMS and dashboards, with modern frontend architecture and robust backend in
 - 🤖 Automating workflows with **n8n** and Generative AI, with CI/CD pipelines on GitHub Actions and SonarQube
 - 🧬 Biologist by training (UNAM) — this account is named after the **interactome**, the complete network of molecular interactions in a cell
 - 💼 Most of my professional work lives in enterprise codebases, so let's talk if you want to know more
+- 🌐 Visit my **[portfolio](https://portafolio-nine-lac.vercel.app/)** — interactive, bilingual and built with React, Tailwind CSS and Framer Motion
 - 📫 Reach me at [zezoniko@gmail.com](mailto:zezoniko@gmail.com)
 
 ## Tech stack
